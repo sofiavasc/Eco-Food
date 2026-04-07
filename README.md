@@ -6,7 +6,7 @@ Integrantes:
 - Larissa Nikolly Bezerra Ferreira
 - Letícia Gabriela Deodato Virtuoso de Lima
 - Sofia Vitória de Lima Vasconcelos
-- Sara Beatriz Alves de Oliveira
+- Sara Beatriz Alves de Oliveir
 
 
 Objetivo do Projeto:
