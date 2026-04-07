@@ -1,5 +1,5 @@
 # Lumina-Saude
-Repositorio para anexo dos documentos do prototipo do app Lumina Saúde
+Repositorio para anexo dos documentos do prototipo do app Lumina Saúde:
 
 Integrantes:
 - Ana Elisa Eronildes Barbosa de Lima
