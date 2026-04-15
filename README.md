@@ -1,5 +1,5 @@
-# Lumina-Saude
-Repositorio para anexo dos documentos do prototipo do app Lumina Saúde:
+# EcoScan
+Repositorio para anexo dos documentos do prototipo do app EcoScan:
 
 Integrantes:
 - Ana Elisa Eronildes Barbosa de Lima
@@ -10,31 +10,33 @@ Integrantes:
 
 
 Objetivo do Projeto:
-O objetivo deste aplicativo é ajudar as pessoas a encontrarem atendimento no SUS de forma rápida e sem erros. Muitas vezes, o cidadão perde horas em filas ou vai para uma unidade de saúde só para descobrir que o exame ou serviço que precisa não é oferecido ali. O app resolve isso ao mostrar exatamente onde encontrar cada atendimento e quais os horários de funcionamento com base na localização do usuário.
+O projeto EcoScan tem como objetivo auxiliar os usuários a fazerem escolhas alimentares mais saudáveis e conscientes, por meio da análise de produtos e da recomendação de alimentos naturais, incentivando uma alimentação equilibrada e sustentável.
 
 ODS Relacionada:
-ODS 3 – Saúde e Bem-Estar.
-Justificativa: O projeto ajuda a cumprir a ODS de Saúde e Bem-Estar porque facilita o acesso à saúde para todos. Ao informar onde e quando realizar exames, o aplicativo reduz a espera desnecessária e garante que ninguém fique sem assistência por falta de informação. Isso torna o sistema de saúde mais eficiente e melhora a qualidade de vida da população.
+ODS 3 – Saúde e Bem-estar
+ODS 12 – Consumo e Produção Responsáveis
+Justificativa: Atualmente, muitas pessoas consomem alimentos ultraprocessados sem conhecer seus impactos na saúde. Além disso, há pouca valorização de alimentos naturais e da sazonalidade (alimentos da estação). O aplicativo surge como uma solução prática para informar e orientar os usuários, promovendo saúde e sustentabilidade.
+
 
 Ideia Inicial do Aplicativo:
 - Funcionalidades principais:
-O aplicativo conta com as funcionalidades de Localização de Unidades de Saúde próximas, Gestão de Exames disponíveis podendo verificar quais procedimentos podem ser realizados, Acesso a medicamentos gratuitos que são distribuídos pelo governo, acesso a consultas médicas com a possibilidade de ver profissionais disponíveis, acompanhamento de solicitações de agendamento e medicamentos e também o controle do perfil do paciente.
+O aplicativo EcoScan apresenta como funcionalidades principais o cadastro e login de usuários, permitindo o acesso personalizado à plataforma. Além disso, o sistema conta com um scanner de produtos alimentícios, que utiliza a câmera do dispositivo para identificar alimentos e fornecer informações relevantes sobre sua composição e qualidade. O aplicativo também disponibiliza uma seção de alimentos mais pesquisados, facilitando o acesso a itens populares entre os usuários. Outra funcionalidade importante é a lista de alimentos recomendados, composta principalmente por opções naturais e saudáveis. O sistema ainda sugere alimentos de acordo com a estação do ano, incentivando o consumo consciente e sustentável. Por fim, o usuário pode salvar alimentos em uma área de favoritos para acesso rápido posteriormente.
 
 - Público-alvo: 
-Usuários do sistema público de saúde que buscam mais agilidade na hora de buscar cuidado com a saúde.
+O público-alvo do EcoScan é composto por jovens e adultos interessados em adotar uma alimentação mais saudável e equilibrada. O aplicativo também atende pessoas que desejam melhorar seus hábitos alimentares no dia a dia, além de consumidores conscientes que se preocupam com sustentabilidade e com o impacto de suas escolhas no meio ambiente.
 
 - Diferenciais em relação a soluções existentes:
-Mais organização com relação ao acesso ao serviço público de saúde, usando serviços e funções mais atuais e eficientes, assim sendo de mais fácil uso pelos usuários do aplicativo. 
+O público-alvo do EcoScan é composto por jovens e adultos interessados em adotar uma alimentação mais saudável e equilibrada. O aplicativo também atende pessoas que desejam melhorar seus hábitos alimentares no dia a dia, além de consumidores conscientes que se preocupam com sustentabilidade e com o impacto de suas escolhas no meio ambiente.
 
 Documentação Inicial:
 - Visão Geral: 
-O aplicativo vai centralizar informações  sobre Unidades Básicas de Saúde, agendamento de consultas e disponibilidade de medicamentos e doutores para cada área, buscando, assim, diminuir filas presenciais e fornecer informações sobre a disponibilidade de insumos farmacêuticos.
+O EcoScan é um aplicativo mobile desenvolvido com o objetivo de facilitar a identificação de alimentos saudáveis e incentivar práticas alimentares mais conscientes. Por meio da tecnologia de escaneamento e de sugestões inteligentes, o aplicativo auxilia o usuário a fazer escolhas mais adequadas no seu cotidiano, contribuindo para a melhoria da saúde e da qualidade de vida.
 
 - Requisitos Funcionais: 
-Gestão de acesso usando do cadastro e login para o controle, localização de unidades listando as UBS disponíveis, verificação de status dos agendamentos e pedidos de reposição de medicamentos e disponibilidade de médicos para consulta nas unidades.
+O sistema deve permitir que o usuário realize seu cadastro de forma simples e segura, bem como efetue login utilizando email e senha. Além disso, o aplicativo deve ser capaz de escanear produtos alimentícios por meio da câmera do dispositivo, identificando-os e fornecendo informações relevantes. O sistema também deve exibir recomendações de alimentos saudáveis, listar os itens mais pesquisados pelos usuários e permitir o salvamento de alimentos na área de favoritos. Por fim, o aplicativo deve sugerir alimentos com base na estação do ano, promovendo escolhas mais sustentáveis.
 
 - Requisitos Não Funcionais: 
-Deve ter um tempo de processamento rápido e ser atualizado em tempo real conforme a base de dados, deve ser de fácil acesso a todos os públicos com layout claro e legível e com navegação simplificada, podendo o usuário chegar em qualquer função principal com poucos cliques, além de que o sistema deve estar em conformidade com as normas da LGPD (Lei Geral de Proteção de Dados) para proteger dados sensíveis dos pacientes como CPF.
+O EcoScan deve apresentar uma interface amigável e de fácil navegação, garantindo uma boa experiência ao usuário. O sistema precisa ter um tempo de resposta rápido, evitando atrasos durante o uso. Além disso, deve ser compatível com dispositivos Android, assegurando acessibilidade para o público-alvo. A segurança dos dados do usuário também é essencial, garantindo proteção das informações pessoais. Por fim, o aplicativo deve possuir um design responsivo e intuitivo, adaptando-se adequadamente às diferentes telas.
 
 - Protótipo Inicial: 
-https://www.figma.com/design/gilBw3UlBYWm3qs5QjCMBg/Untitled?node-id=1-2&t=7TL6rj3cuCkZ9MW3-1
+https://www.figma.com/design/QtCqP1KRJ2kqe998o3f9UI/Untitled?node-id=0-1&t=v4koqeNo3jC7AnVb-1
