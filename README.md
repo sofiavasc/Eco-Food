@@ -14,7 +14,8 @@ O projeto EcoScan tem como objetivo auxiliar os usuários a fazerem escolhas ali
 
 ODS Relacionada:
 ODS 3 – Saúde e Bem-estar
-ODS 12 – Consumo e Produção Responsáveis
+ODS 12 – Consumo e Produção Responsáveis.
+
 Justificativa: Atualmente, muitas pessoas consomem alimentos ultraprocessados sem conhecer seus impactos na saúde. Além disso, há pouca valorização de alimentos naturais e da sazonalidade (alimentos da estação). O aplicativo surge como uma solução prática para informar e orientar os usuários, promovendo saúde e sustentabilidade.
 
 
